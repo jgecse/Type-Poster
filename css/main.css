@@ -1,0 +1,42 @@
+body {
+background: url(../img/pancakes.jpg)no-repeat 50% 50%;
+margin: 10rem 30rem 10rem 30rem;
+}
+	h1 {
+  padding: 3rem 1rem 4.5rem 3rem
+  text-align: center;
+  font-size: 3rem;
+  color: navy;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-family: cardo;
+  line-height: .75;
+
+}
+
+p{ 
+	
+	text-align: center;
+	font-size: 900;
+	color: #ff613e;
+	font-family: open sans;
+	background-color: grey;
+	padding: 1rem;
+	margin: -2rem;
+	margin: 0rem 0rem 0rem 0rem;
+
+
+}
+
+main {
+	
+	text-align: center;
+	color: #ff613e;
+	background-color: grey;
+	background-repeat: no-repeat;
+	padding: .5rem;
+
+
+	
+
+}
